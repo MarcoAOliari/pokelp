@@ -1,0 +1,36 @@
+{
+    "id": 25,
+    "name": {
+      "english": "Pikachu",
+      "japanese": "ピカチュウ",
+      "chinese": "皮卡丘",
+      "french": "Pikachu"
+    },
+    "type": [
+      "Electric"
+    ],
+    "attacks": [
+      "ataquerapido",
+      "faisca", 
+      "curtocircuito",
+      "choquedotrovao"
+    ],
+    "base": {
+      "HP": 75,
+      "Attack": 55,
+      "Defense": 40,
+      "Sp. Attack": 120,
+      "Sp. Defense": 50,
+      "Speed": 90
+    },
+    "coordinates": {
+      "back": {
+        "x": 200,
+        "y": 450
+      },
+      "front": {
+        "x": 580,
+        "y": 280
+      }
+    }
+}

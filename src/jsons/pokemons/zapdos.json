@@ -1,0 +1,37 @@
+{
+    "id": 145,
+    "name": {
+      "english": "Zapdos",
+      "japanese": "サンダー",
+      "chinese": "闪电鸟",
+      "french": "Électhor"
+    },
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "attacks": [
+      "investida",
+      "eletrocutar", 
+      "carga",
+      "curtocircuito"
+    ],
+    "base": {
+      "HP": 90,
+      "Attack": 90,
+      "Defense": 85,
+      "Sp. Attack": 125,
+      "Sp. Defense": 90,
+      "Speed": 100
+    },
+    "coordinates": {
+      "back": {
+        "x": 220,
+        "y": 450
+      },
+      "front": {
+        "x": 580,
+        "y": 270
+      }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "absorver": {
+        "name": "Absorver",
+        "damage": 15,
+        "pp": 25,
+        "type": "Grama"
+    },
+    "ataquerapido": {
+        "name": "Ataque Rápido",
+        "damage": 15,
+        "pp": 25,
+        "type": "Normal"
+    },
+    "bolhas": {
+        "name": "Bolhas",
+        "damage": 15,
+        "pp": 35,
+        "type": "Água"
+    },
+    "carga": {
+        "name": "Carga",
+        "damage": 100,
+        "pp": 2,
+        "type": "Raio"
+    },
+    "chamas": {
+        "name": "Chamas",
+        "damage": 25,
+        "pp": 15,
+        "type": "Fogo"
+    },
+    "choquedotrovao": {
+        "name": "Choque do Trovão",
+        "damage": 20,
+        "pp": 20,
+        "type": "Raio"
+    },
+    "curtocircuito": {
+        "name": "Curto-Circuito",
+        "damage": 30,
+        "pp": 15,
+        "type": "Raio"
+    },
+    "eletrocutar": {
+        "name": "Eletrocutar",
+        "damage": 50,
+        "pp": 5,
+        "type": "Raio"
+    },
+    "faisca": {
+        "name": "Faísca",
+        "damage": 15,
+        "pp": 25,
+        "type": "Raio"
+    },
+    "folhanavalha": {
+        "name": "Folha Navalha",
+        "damage": 45,
+        "pp": 5,
+        "type": "Grama"
+    },
+    "investida": {
+        "name": "Investida",
+        "damage": 30,
+        "pp": 20,
+        "type": "Normal"
+    },
+    "jatodaagua": {
+        "name": "Jato da Água",
+        "damage": 30,
+        "pp": 20,
+        "type": "Água"
+    },
+    "morder": {
+        "name": "Morder",
+        "damage": 20,
+        "pp": 25,
+        "type": "Normal"
+    },
+    "ondadecalor": {
+        "name": "Onda de Calor",
+        "damage": 33,
+        "pp": 5,
+        "type": "Fogo"
+    },
+    "queimar": {
+        "name": "Queimar",
+        "damage": 20,
+        "pp": 30,
+        "type": "Fogo"
+    },
+    "splash": {
+        "name": "Splash",
+        "damage": 5,
+        "pp": 40,
+        "type": "Água"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 6,
+    "name": {
+      "english": "Charizard",
+      "japanese": "リザードン",
+      "chinese": "喷火龙",
+      "french": "Dracaufeu"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "attacks": [
+      "ataquerapido",
+      "queimar", 
+      "chamas",
+      "ondadecalor"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 84,
+      "Defense": 78,
+      "Sp. Attack": 109,
+      "Sp. Defense": 85,
+      "Speed": 100
+    },
+    "coordinates": {
+      "back": {
+        "x": 200,
+        "y": 450
+      },
+      "front": {
+        "x": 580,
+        "y": 250
+      }
+    }
+}

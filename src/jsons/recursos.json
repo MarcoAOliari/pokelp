@@ -1,0 +1,94 @@
+{
+    "jsons": {
+        "files": [
+            {
+                "type": "json",
+                "key": "ataques",
+                "url": "../jsons/ataques.json"
+            },
+            {
+                "type": "json",
+                "key": "blastoise",
+                "url": "../jsons/pokemons/blastoise.json"
+            },
+            {
+                "type": "json",
+                "key": "charizard",
+                "url": "../jsons/pokemons/charizard.json"
+            },
+            {
+                "type": "json",
+                "key": "pikachu",
+                "url": "../jsons/pokemons/pikachu.json"
+            },
+            {
+                "type": "json",
+                "key": "venusaur",
+                "url": "../jsons/pokemons/venusaur.json"
+            },
+            {
+                "type": "json",
+                "key": "zapdos",
+                "url": "../jsons/pokemons/zapdos.json"
+            }
+        ]
+    },
+    "frentes": {
+        "files": [
+            {
+                "type": "image",
+                "key": "blastoise_frente",
+                "url": "pokemons/frente/9.png"
+            },
+            {
+                "type": "image",
+                "key": "charizard_frente",
+                "url": "pokemons/frente/6.png"
+            },
+            {
+                "type": "image",
+                "key": "pikachu_frente",
+                "url": "pokemons/frente/25.png"
+            },
+            {
+                "type": "image",
+                "key": "venusaur_frente",
+                "url": "pokemons/frente/3.png"
+            },
+            {
+                "type": "image",
+                "key": "zapdos_frente",
+                "url": "pokemons/frente/145.png"
+            }
+        ]
+    },
+    "costas": {
+        "files": [
+            {
+                "type": "image",
+                "key": "blastoise_costas",
+                "url": "pokemons/costas/9.png"
+            },
+            {
+                "type": "image",
+                "key": "charizard_costas",
+                "url": "pokemons/costas/6.png"
+            },
+            {
+                "type": "image",
+                "key": "pikachu_costas",
+                "url": "pokemons/costas/25.png"
+            },
+            {
+                "type": "image",
+                "key": "venusaur_costas",
+                "url": "pokemons/costas/3.png"
+            },
+            {
+                "type": "image",
+                "key": "zapdos_costas",
+                "url": "pokemons/costas/145.png"
+            }
+        ]
+    }
+}
